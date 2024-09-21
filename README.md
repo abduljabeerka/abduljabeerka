@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sofware Engineer at Cadvil Technologies<br>🤝 Website Development, WebApp Development, Windows App development, Database Management.
+🔭 I’m currently working on Sofware Engineer at Cadvil Technologies<br>🤝 Website Development, WebApp Development, Windows App development, Database Management.<br>🤝 Dotnet Applications, ASP.NET MVC / ASP.NET Core .<br>🤝MSSQL / ORACLE / MY sql Database Management. <br>🤝 Frontend, Backend and Database Design.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-jabeer-k-a-521487154) 
